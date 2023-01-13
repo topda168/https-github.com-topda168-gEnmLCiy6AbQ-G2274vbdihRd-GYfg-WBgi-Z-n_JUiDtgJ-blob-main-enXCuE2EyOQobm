@@ -1,3 +1,4 @@
+大麦影院,http://124.205.11.249/live/DZYYhd-8M/live.m3u8
 大健康,http://124.205.11.242:91/live/DJKhd-8M/live.m3u8
 浙江卫视高清,http://124.205.11.242:91/live/ZJWShd-8M/live.m3u8
 幸福剧场高清,http://124.205.11.242:91/live/XFJChd-8M/live.m3u8

@@ -1,15 +1,5 @@
 
-凤凰卫视,#genre#
-凤凰中文HD,http://117.169.124.149:8080/live/fhchinese/index.m3u8
-凤凰资讯HD,http://117.169.124.146:8080/live/fhchinese/index.m3u8/live/fhzixun/index.m3u8
 
-凤凰资讯官网,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰卫视官网,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-
-#凤凰中文卡,http://39.135.138.58:18890/ysten-businessmobile/live/fhchinese/1.m3u8
-凤凰资讯卡,http://39.135.138.58:18890/ysten-businessmobile/live/fhzixun/1.m3u8
-
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 卫视高清,#genre#
 湖南卫视1080P,http://124.205.11.242:91/live/HuNWShd-8M/live.m3u8
@@ -188,3 +178,15 @@ CCTV14少儿标清,http://124.205.11.242:91/live/CCTV14-1500k/live.m3u8
 CCTV15音乐标清,http://124.205.11.242:91/live/CCTV15-1500k/live.m3u8
 CCTV17农业农村标清,http://124.205.11.242:91/live/CCTV17-1500k/live.m3u8
 CGTN标清,http://124.205.11.242:91/live/CCTVNEWS-1500k/live.m3u8
+
+凤凰卫视,#genre#
+凤凰中文HD,http://117.169.124.149:8080/live/fhchinese/index.m3u8
+凤凰资讯HD,http://117.169.124.146:8080/live/fhchinese/index.m3u8/live/fhzixun/index.m3u8
+
+凤凰资讯官网,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰卫视官网,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+
+#凤凰中文卡,http://39.135.138.58:18890/ysten-businessmobile/live/fhchinese/1.m3u8
+凤凰资讯卡,http://39.135.138.58:18890/ysten-businessmobile/live/fhzixun/1.m3u8
+
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
